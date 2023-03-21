@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dilber-Merdan
-- 👀 I’m interested in web development
+- 👀 A dedicated full stack developer from London
 - 🌱 I’m currently learning Ruby, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me ...
